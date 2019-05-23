@@ -1,7 +1,7 @@
 # cool-apps
-[https://matthewpalmer.net/rocket/]Rocket
 
 | Application |     Link    | Description   |
 | ----------- | ----------- | ------------- |
-| Rocket | https://matthewpalmer.net/rocket/ | Emoji/GIF picker for MacOS |
-| Vanilla | https://matthewpalmer.net/vanilla/ | Menu bar icon hider for MacOS |
+| Rocket | https://matthewpalmer.net/rocket/ | Emoji/GIF picker |
+| Vanilla | https://matthewpalmer.net/vanilla/ | Menu bar icon hider |
+| Maccy | https://github.com/p0deje/Maccy | Lightweight clipboard manager |
