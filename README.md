@@ -5,3 +5,4 @@
 | Rocket | https://matthewpalmer.net/rocket/ | Emoji/GIF picker |
 | Vanilla | https://matthewpalmer.net/vanilla/ | Menu bar icon hider |
 | Maccy | https://github.com/p0deje/Maccy | Lightweight clipboard manager |
+| Deckset | https://www.deckset.com | Markdown to beautiful presentations |
