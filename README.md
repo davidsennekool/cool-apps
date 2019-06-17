@@ -8,3 +8,4 @@
 | Deckset | https://www.deckset.com | Markdown to beautiful presentations | Mac |
 | Webtorrent | https://webtorrent.io | The streaming torrent client | Mac, Linux, Windows |
 | Workspace Pro | https://workspaceproapp.com | Workspace manager | Mac |
+| Swish | https://highlyopinionated.co/swish | The missing gesture layer for macOS | Mac |
