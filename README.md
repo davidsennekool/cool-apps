@@ -15,3 +15,4 @@
 | Coconut Battery | https://www.coconut-flavour.com/coconutbattery | With coconutBattery you are always aware of your current battery health | Mac |
 | AppCleaner | https://freemacsoft.net/appcleaner | AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps | Mac |
 | Etcher | https://www.balena.io/etcher | Flash OS images to SD cards & USB drives, safely and easily | Mac |
+| Raptor | http://macappstore.org/raptor | Chess Interface | Mac |
