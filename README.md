@@ -16,3 +16,4 @@
 | AppCleaner | https://freemacsoft.net/appcleaner | AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps | Mac |
 | Etcher | https://www.balena.io/etcher | Flash OS images to SD cards & USB drives, safely and easily | Mac |
 | Raptor | http://macappstore.org/raptor | Chess Interface | Mac |
+| Left | https://hundredrabbits.itch.io/left | Distractionless writing tool (markup) | Mac, Linux, Windows |
